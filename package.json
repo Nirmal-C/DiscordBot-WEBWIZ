@@ -1,0 +1,23 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "Official Discord Bot of Webwiz",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nirmal-C/DiscordBot-Webwiz.git"
+  },
+  "author": "Nirmal_C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nirmal-C/DiscordBot-Webwiz/issues"
+  },
+  "homepage": "https://github.com/Nirmal-C/DiscordBot-Webwiz#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  }
+}
