@@ -11,6 +11,9 @@ client.once('ready',() => {
     console.log('WEBWIZ is online!');
 }); 
 
+const commandHandler = require('./commands');
+client.on("message", commandHandler);
+
 
 
 
