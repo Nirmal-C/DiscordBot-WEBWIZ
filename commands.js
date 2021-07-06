@@ -5,7 +5,7 @@ client.login(process.env.BOTTOKEN);
 const replies = [
     'Hi ✋',
     'Hello There 😊',
-    'Never Forget Me 😉',
+    'Hey, Its pleasure to meet you 😉',
     'Nice to meet you 💖',
     'You are awesome 😍'
 ]
